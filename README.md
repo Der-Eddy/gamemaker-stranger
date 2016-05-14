@@ -13,11 +13,11 @@ Download the latest gmz project file here: [Release versions](https://github.com
 
 Screenshots
 -------------
-![](https://n3b6p5n5.ssl.hwcdn.net/data/games/2/6/142756/screenshots/2016-04-24%2011%2028%2041-kjhikyev.png)
+![](https://i.imgur.com/GP71ykT.png)
 
-![](https://n3b6p5n5.ssl.hwcdn.net/data/games/2/6/142756/screenshots/2016-04-24%2003%2050%2012-efufjzzd.png)
+![](https://i.imgur.com/6g1cTyW.png)
 
-![](https://n3b6p5n5.ssl.hwcdn.net/data/games/2/6/142756/screenshots/2016-04-24%2015%2015%2004-tmuymuxh.png)
+![](https://i.imgur.com/VyAZgUI.png)
 
 Made with
 -------------
